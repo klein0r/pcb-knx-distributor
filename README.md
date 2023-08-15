@@ -2,7 +2,7 @@
 
 ## Preview
 
-![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-knx-distributor/preview.png)
+![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-knx-distributor/master/preview.png)
 
 ## Parts
 
