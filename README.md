@@ -6,7 +6,9 @@
 
 ## Parts
 
-- 6x 
+- 24x Wago 243-131
+- 6x Wago 243-211 (red/black)
+- 6x Wago 243-212 (yellow/grey)
 
 ```* = Affiliate Link```
 
