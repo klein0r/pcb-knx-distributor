@@ -4,6 +4,8 @@
 
 ![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-knx-distributor/master/preview.png)
 
+![PCB Photo](https://raw.githubusercontent.com/klein0r/pcb-knx-distributor/master/previewReal.jpg)
+
 ## Parts
 
 - 24x Wago 243-131
