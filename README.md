@@ -1,5 +1,9 @@
 # KNX Distributor
 
+Just a simple PCB to distribute the KNX bus (for development / testing)
+
+[Gerber-Files](https://github.com/klein0r/pcb-knx-distributor/releases)
+
 ## Preview
 
 ![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-knx-distributor/master/preview.png)
