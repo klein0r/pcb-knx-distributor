@@ -6,8 +6,8 @@
 
   (title_block
     (title "KNX Distributor")
-    (date "2023-08-15")
-    (rev "0.2")
+    (date "2024-02-21")
+    (rev "0.3")
     (company "haus-automatisierung.com")
     (comment 1 "Matthias Kleine")
   )
