@@ -12,9 +12,9 @@ Just a simple PCB to distribute the KNX bus (for development / testing)
 
 ## Parts
 
-- 24x Wago 243-131
-- 6x Wago 243-211 (red/black)
-- 6x Wago 243-212 (yellow/grey)
+- 28x Wago 243-131
+- 7x Wago 243-211 (red/black)
+- 7x Wago 243-212 (yellow/grey)
 
 ```* = Affiliate Link```
 
