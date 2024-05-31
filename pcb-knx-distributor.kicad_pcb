@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "KNX Distributor")
-		(date "2024-04-30")
+		(date "2024-05-30")
 		(rev "0.6")
 		(company "haus-automatisierung.com")
 		(comment 1 "Matthias Kleine")
@@ -4424,18 +4424,6 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
-		)
-	)
-	(gr_text "v0.4"
-		(at 44.45 74.45 90)
-		(layer "F.SilkS")
-		(uuid "d2ce8341-68bc-43d2-b9ef-e384096ca7a0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
 		)
 	)
 	(gr_text "G"
