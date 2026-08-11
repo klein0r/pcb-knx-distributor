@@ -276,7 +276,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "0.6"
+      "sch_revision": "0.7"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -685,7 +685,7 @@
         "uuid": "e29988c4-099a-47e2-9764-7c3248fdf7ae"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J17-18",
     "variants": []
   },
   "sheets": [
